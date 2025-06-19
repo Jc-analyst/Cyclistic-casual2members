@@ -1,4 +1,4 @@
-# R Project ### (Merging, cleaning, Analysing, Visualization) 
+# R Project (Merging, cleaning, Analysing, Visualization) 
 
 # 🚲 Cyclistic Bike-Share Capstone Project
 
