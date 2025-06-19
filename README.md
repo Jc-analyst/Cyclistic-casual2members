@@ -99,7 +99,7 @@ Combined visualization showing total ride volumes across two full years (2023 an
 
 ## 📁 Data Source
 
-- 12 months of trip data provided by Motivate International Inc.  
+- 16 months (Jan 2023 to April 2024) of trip data provided by Motivate International Inc.  
 - Available via: [divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 > *Data is licensed under the [Chicago Data License](https://www.chicago.gov/city/en/narr/foia/data_disclaimer.html)*
