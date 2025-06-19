@@ -67,6 +67,33 @@ rmarkdown::render("cyclistic_report.Rmd")
 Or click the **Knit** button in RStudio to generate an HTML or PDF report.
 
 ---
+## 📊 Visualizations
+
+### Plot01 – Percentage of Bike Types  
+Bar chart showing the percentage breakdown of bike types used (e.g., classic, docked, electric). This highlights rider preferences by bike category.  
+📁 `visuals/bike_type_percentage.png`
+
+### Plot02 – Total Rides by Bike Type  
+Displays the total number of rides taken with each bike type. Helps identify demand and usage levels across categories.  
+📁 `visuals/total_rides_by_type.png`
+
+### Plot03 – Pie Chart of Ride Type Distribution  
+A pie chart visualizing the ratio between **member** and **casual** riders across all trips. Shows how the user base is split.  
+📁 `visuals/ride_type_distribution_pie.png`
+
+### Plot04 – Total Rides in 2023  
+Bar or line chart of all rides logged during the 2023 calendar year. Useful for identifying peak ridership months or seasons.  
+📁 `visuals/total_rides_2023.png`
+
+### Plot05 – Monthly Ride Trends in 2023  
+Line graph showing how ride counts fluctuated each month in 2023. Clear insight into seasonal and behavioral changes.  
+📁 `visuals/monthly_ride_trends_2023.png`
+
+### Plot06 – Total Rides (2023–2024)  
+Combined visualization showing total ride volumes across two full years (2023 and 2024), helping assess overall growth or decline.  
+📁 `visuals/total_rides_2023_2024.png`
+
+---
 
 ## 📁 Data Source
 
