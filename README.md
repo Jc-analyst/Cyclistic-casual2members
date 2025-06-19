@@ -40,10 +40,12 @@ This analysis was conducted as part of the **Google Data Analytics Capstone Proj
    - Visualized trends over time and across demographics
 
 3. **Key Visuals (from `/visuals`)**
-   - `weekday_usage.png`: Rides by day of week per rider type  
-   - `ride_duration.png`: Avg ride time by user type  
-   - `monthly_trends.png`: Monthly trip totals  
-   - `hourly_patterns.png`, `station_heatmap.png`, `bike_type_breakdown.png`
+   - Plot01 – Percentage of Bike Types    
+   - Plot02 – Total Rides by Bike Type 
+   - Plot03 – Pie Chart of Ride Type Distribution 
+   - Plot04 – Total Rides in 2023
+   - Plot05 – Monthly Ride Trends in 2023 
+   - Plot06 – Total Rides (2023–2024) 
 
 4. **Insights & Recommendations**  
    - Members ride more frequently but for shorter durations  
