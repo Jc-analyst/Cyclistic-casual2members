@@ -1,4 +1,5 @@
-# Cyclistic-casual2members
+# R Project, 
+## (Merging, cleaning, Analysing, Visualization) 
 
 # 🚲 Cyclistic Bike-Share Capstone Project
 
