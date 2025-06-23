@@ -1,3 +1,11 @@
+![R](https://img.shields.io/badge/Language-R-blueviolet?style=flat-square)
+![Data Formats](https://img.shields.io/badge/Data-CSV%20%7C%20RMD%20%7C%20R-green?style=flat-square)
+![Visuals](https://img.shields.io/badge/Visuals-PNG%20Graphs%20%26%20EDA-lightblue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Jc-analyst/Cyclistic-Capstone?style=flat-square)
+
+
 # R Project (Merging, cleaning, Analysing, Visualization) 
 
 # 🚲 Cyclistic Bike-Share Capstone Project
