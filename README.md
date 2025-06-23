@@ -3,7 +3,7 @@
 ![Visuals](https://img.shields.io/badge/Visuals-PNG%20Graphs%20%26%20EDA-lightblue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/Jc-analyst/Cyclistic-Capstone?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Jc-analyst/Cyclistic-casual2members?style=flat-square)
 
 
 # R Project (Merging, cleaning, Analysing, Visualization) 
